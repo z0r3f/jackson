@@ -1,0 +1,22 @@
+# Project exclude paths
+# Maven
+target/
+
+# IntelliJ
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.classpath
+.factorypath
+.project
+.settings/
+
+.DS_Store
+
+# Local logs
+*.log
+
+*.json
